@@ -6,7 +6,7 @@
 - 🍕 [welikeheon - Back-End Developer](https://github.com/welikeheon)
 - 🍙 [prayme - Back-End Developer](https://github.com/plzprayme)
 - 🍔 [DevooKim - Andorid Developer](https://github.com/DevooKim)
-- 🐝 [Hitbee - Android Developer](https://github.com/Hitbee)
+- 🐝 [Hitbee - Android Developer](https://github.com/Hitbee-dev)
 - 🍖 [Kimseonju - Android Developer](https://github.com/Kimseonju)
 
 ## Setup
